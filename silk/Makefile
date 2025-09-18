@@ -130,3 +130,4 @@ clean:
 	$(RM) $(TARGET)* $(OBJS) $(ENCODER_OBJS) $(DECODER_OBJS) \
 		  $(SIGNALCMP_OBJS) $(TEST_OBJS) \
 		  encoder$(EXESUFFIX) decoder$(EXESUFFIX) signalcompare$(EXESUFFIX)
+
